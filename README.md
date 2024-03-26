@@ -1,4 +1,8 @@
 # Ed1Atv3
+Estrutura de Dados I - Atividade 3
+
+Aluno: João Augusto Marciano Silva
+
 1. Escreva um programa que contenha duas variaveis inteiras. Leia essas variáveis do teclado. Em seguida, compare seus endereços e exiba o conteudo do maior endereço.
 
 2. Crie um programa que contenha um array de float contendo 10 elementos. Imprima o endereço de cada posição do array.

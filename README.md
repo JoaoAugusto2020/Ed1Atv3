@@ -1,4 +1,3 @@
-# Ed1Atv3
 Estrutura de Dados I - Atividade 3
 
 Aluno: João Augusto Marciano Silva

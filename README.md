@@ -1,6 +1,6 @@
-Estrutura de Dados I - Atividade 3
-
-Aluno: João Augusto Marciano Silva
+# Ed1Atv4
+##Aluno: João Augusto Marciano Silva
+Atividade 3 de Estrutura de Dados I - Função
 
 1. Escreva um programa que contenha duas variaveis inteiras. Leia essas variáveis do teclado. Em seguida, compare seus endereços e exiba o conteudo do maior endereço.
 

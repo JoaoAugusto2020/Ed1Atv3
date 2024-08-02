@@ -1,5 +1,5 @@
-# Ed1Atv4
-Atividade 3 de Estrutura de Dados I - Função
+# Ed1Atv3
+Atividade 3 de Estrutura de Dados I - Ponteiros
 
 1. Escreva um programa que contenha duas variaveis inteiras. Leia essas variáveis do teclado. Em seguida, compare seus endereços e exiba o conteudo do maior endereço.
 
